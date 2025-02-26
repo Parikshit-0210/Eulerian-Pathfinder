@@ -46,12 +46,6 @@ Eulerian Circuit (Chinese Postman Tour): [0, 3, 1, 6, 8, 7, 2, 9, 5, 4, 0]
 ```
 The circuit is then visualized using `matplotlib`.
 
-## File Structure
-```
-/ChinesePostmanProblem
-│── chinese_postman.py  # Main script
-│── README.md           # Project documentation
-```
 
 ## Future Improvements
 - Allow user input for custom graphs.
